@@ -152,7 +152,7 @@ elif options==6:                                                                
         
         
 
-        a=['Mark1','Mark2','Mark3','Mark4','Nark5']
+        a=['Mark1','Mark2','Mark3','Mark4','Mark5']
         b=list
 
         plt.bar(a,b)
